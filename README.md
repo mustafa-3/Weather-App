@@ -10,3 +10,4 @@ Using the API, I pulled weather data to my web page and created an image contain
 ***
 [Click Here To See All Page...](https://js-weather-app3.netlify.app/)
 ***
+![](https://github.com/mustafa-3/Weather-App/blob/master/Preview.jpg)
